@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/livingroom"
+        android:title="Living Room"/>
+    <item android:id="@+id/bedroom"
+        android:title="Bed Room" />
+    <item android:id="@+id/diningroom"
+        android:title="Dining Room" />
+    <item android:id="@+id/bathroom"
+        android:title="Bath Room" />
+    <item android:id="@+id/officeroom"
+        android:title="Office Room" />
+    <item android:id="@+id/garage"
+        android:title="Garage" />
+    <item android:id="@+id/kitchen"
+        android:title="Kitchen" />
+    <item android:id="@+id/backyard"
+        android:title="Back Yard" />
+    <item android:id="@+id/lobby"
+        android:title="Lobby" />
+    <item android:id="@+id/yard"
+        android:title="Yard" />
+    <item android:id="@+id/router"
+        android:title="Router" />
+</menu>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBelt">#216583</color>
+    <color name="colorFont2">#19B2E7</color>
+    <color name="colorFont1">#f9ac00</color>
+    <color name="colorFont3">#ffffff</color>
+    <color name="colorBackgroundx">#474575</color>
+    <color name="colorBackground">#0058A2</color>
+    <color name="apppbground1">#46b5be</color>
+    <color name="edittextbackground">#76b8ce</color>
+    <color name="apppbground">#ffffff</color>
+    <color name="sucess">#50C878</color>
+</resources>
